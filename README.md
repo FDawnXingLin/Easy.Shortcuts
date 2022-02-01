@@ -6,6 +6,6 @@
 
 还有，如果你犹有余裕，认为我的努力值得的话，你也可以在爱发电平台上资助我（穷学生，大一化学狗），谢谢各位亲了：
 
-![](../.gitbook/assets/donate\_aifadian.jpg)
+![donate\_aifadian.jpg](../.gitbook/assets/donate\_aifadian.jpg)
 
 最后，无论是有技术上的问题还是单纯想闲聊，你都可以通过电子邮箱ask@fdawnxl.com和我交流，欢迎各位。
