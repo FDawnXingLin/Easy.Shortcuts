@@ -1,4 +1,4 @@
-# 1.3 关于本项目
+# 1.1 关于本项目
 
 虽然Easy.Shortcuts这个项目是我的一时兴起，但是我也会努力的将其不断完善的。如果你认为我的努力是有价值的，你可以在该项目的仓库下（[https://github.com/FDawnXingLin/Easy.Shortcut](https://app.gitbook.com/s/d2wOZWwEgZBGhNNT1Bha/)  为我点一颗Star，在这里先谢谢各位了。
 
