@@ -11,4 +11,5 @@
 
 * [2.0 写在Wiki部分之前](kuai-jie-zhi-ling-cao-zuo-wiki/2.0-xie-zai-wiki-bu-fen-zhi-qian/README.md)
   * [2.1 脚本](kuai-jie-zhi-ling-cao-zuo-wiki/2.0-xie-zai-wiki-bu-fen-zhi-qian/2.1-jiao-ben/README.md)
-    * [2.1.1 变量](kuai-jie-zhi-ling-cao-zuo-wiki/2.0-xie-zai-wiki-bu-fen-zhi-qian/2.1-jiao-ben/2.1.1-bian-liang.md)
+    * [2.1.1 变量](kuai-jie-zhi-ling-cao-zuo-wiki/2.0-xie-zai-wiki-bu-fen-zhi-qian/2.1-jiao-ben/2.1.1-bian-liang/README.md)
+      * [2.1.1.1 获取变量](kuai-jie-zhi-ling-cao-zuo-wiki/2.0-xie-zai-wiki-bu-fen-zhi-qian/2.1-jiao-ben/2.1.1-bian-liang/2.1.1.1-huo-qu-bian-liang.md)
