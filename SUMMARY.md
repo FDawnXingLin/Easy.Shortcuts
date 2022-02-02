@@ -23,3 +23,5 @@
       * [2.1.3.2 从输入中获取词典](kuai-jie-zhi-ling-cao-zuo-wiki/2.0-xie-zai-wiki-bu-fen-zhi-qian/2.1-jiao-ben/2.1.3-ci-dian/2.1.3.2-cong-shu-ru-zhong-huo-qu-ci-dian.md)
       * [2.1.3.3 获取词典值](kuai-jie-zhi-ling-cao-zuo-wiki/2.0-xie-zai-wiki-bu-fen-zhi-qian/2.1-jiao-ben/2.1.3-ci-dian/2.1.3.3-huo-qu-ci-dian-zhi.md)
       * [2.1.3.4 设定词典值](kuai-jie-zhi-ling-cao-zuo-wiki/2.0-xie-zai-wiki-bu-fen-zhi-qian/2.1-jiao-ben/2.1.3-ci-dian/2.1.3.4-she-ding-ci-dian-zhi.md)
+    * [2.1.4 控制流](kuai-jie-zhi-ling-cao-zuo-wiki/2.0-xie-zai-wiki-bu-fen-zhi-qian/2.1-jiao-ben/2.1.4-kong-zhi-liu/README.md)
+      * [2.1.4.1 从菜单中选取](kuai-jie-zhi-ling-cao-zuo-wiki/2.0-xie-zai-wiki-bu-fen-zhi-qian/2.1-jiao-ben/2.1.4-kong-zhi-liu/2.1.4.1-cong-cai-dan-zhong-xuan-qu.md)
