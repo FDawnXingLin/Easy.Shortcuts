@@ -20,3 +20,4 @@
       * [2.1.2.2 转换测量](kuai-jie-zhi-ling-cao-zuo-wiki/2.0-xie-zai-wiki-bu-fen-zhi-qian/2.1-jiao-ben/2.1.2-ce-liang/2.1.2.2-zhuan-huan-ce-liang.md)
     * [2.1.3 词典](kuai-jie-zhi-ling-cao-zuo-wiki/2.0-xie-zai-wiki-bu-fen-zhi-qian/2.1-jiao-ben/2.1.3-ci-dian/README.md)
       * [2.1.3.1 词典](kuai-jie-zhi-ling-cao-zuo-wiki/2.0-xie-zai-wiki-bu-fen-zhi-qian/2.1-jiao-ben/2.1.3-ci-dian/2.1.3.1-ci-dian.md)
+      * [2.1.3.2 从输入中获取词典](kuai-jie-zhi-ling-cao-zuo-wiki/2.0-xie-zai-wiki-bu-fen-zhi-qian/2.1-jiao-ben/2.1.3-ci-dian/2.1.3.2-cong-shu-ru-zhong-huo-qu-ci-dian.md)
